@@ -4,6 +4,8 @@ CJK–ASCII spacing formatter & linter (Dualbind rules v3.1)
 
 A Python tool for enforcing consistent spacing between CJK (Chinese, Japanese, Korean) characters and ASCII text.
 
+最新のリリース: https://github.com/dualbind-laboratory/cjk_ascii_formatter/releases/latest
+
 ## Quick Start
 
 Install and check version:
