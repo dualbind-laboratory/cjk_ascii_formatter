@@ -1,3 +1,5 @@
+**English README：** see [`README.md`](README.md)
+
 # cjk_ascii_formatter
 
 CJK–ASCII スペーシング フォーマッタ & リンター（ Dualbind rules v3.1 ）
