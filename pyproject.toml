@@ -89,3 +89,8 @@ warn_redundant_casts = true
 warn_unused_ignores = true
 warn_no_return = true
 follow_imports = "normal"
+disallow_untyped_decorators = false
+
+[[tool.mypy.overrides]]
+module = ["click", "click.*", "pytest", "_pytest.*"]
+ignore_missing_imports = true

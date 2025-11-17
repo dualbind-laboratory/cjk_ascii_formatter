@@ -1,7 +1,6 @@
 """Command-line interface for CJK-ASCII formatter."""
 
 import sys
-from typing import Optional
 
 import click
 
