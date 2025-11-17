@@ -1,3 +1,4 @@
+**日本語版 README：** see [`readme_ja.md`](readme_ja.md)
 [![CI](https://github.com/dualbind-laboratory/cjk_ascii_formatter/actions/workflows/ci.yml/badge.svg)](https://github.com/dualbind-laboratory/cjk_ascii_formatter/actions/workflows/ci.yml)
 [![Release](https://img.shields.io/github/v/release/dualbind-laboratory/cjk_ascii_formatter?display_name=tag&sort=semver)](https://github.com/dualbind-laboratory/cjk_ascii_formatter/releases/latest)
 
